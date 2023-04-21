@@ -8,7 +8,7 @@ middle_name:
 last_name: Huang
 email: taou.cs13@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The homepage of Peng Zhenghao.
+  The homepage of Tao Huang.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -63,10 +63,8 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-dblp_url: https://dblp.org/pid/220/3963 # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
-#bilibili_id: 442318796 #your bilibili id
-cv_pdf: CV_Peng_Zhenghao_Official.pdf
+cv_pdf: CV_Tao.pdf
 
 rss_icon: false
 
