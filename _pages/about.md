@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year Ph.D. student in Computer Science and Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by [Professor Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/index.html).
+I am a first-year M.Phil. student in Computer Science and Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by [Professor Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/index.html).
 Before joining CUHK, I obtained my B.Eng. degree from the School of Information Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/).
 
 
