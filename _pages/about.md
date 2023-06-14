@@ -16,10 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year M.Phil. student in Computer Science and Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by [Professor Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/index.html).
-Before joining CUHK, I obtained my B.Eng. degree from the School of Information Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/).
+I am a first-year M.Phil. student in Computer Science and Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/index.html).
+Before joining CUHK, I obtained my B.Eng. degree from the School of Information Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/). Currently, I am doing 2023 summer research internship with Dr. [He Zhang](https://cghezhang.github.io/) and Dr. [Lei Han](https://www.leihan.org/) at [Tencent Robotics X](https://ai.tencent.com/ailab/zh/index).
 
 
-My research aims to build intelligent machines through reinforcement learning (for achieving higher sampler efficiency) and robot learning (for improving long-horizon reasoning ability) from their experiences or offline data in the physical world.
-
-Now, I am looking for intern opportunities and academic collaborations on the above topics. 
+My research aims to build intelligent machines through reinforcement learning (for achieving higher sampler efficiency) and robot learning (for improving long-horizon reasoning ability) from their experiences and offline data in the physical world.
