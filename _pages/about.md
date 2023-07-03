@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a first-year M.Phil. student in Computer Science and Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) advised by Prof. [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/index.html).
-Before joining CUHK, I obtained my B.Eng. degree from the School of Information Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/). Currently, I am doing 2023 summer research internship with Dr. [He Zhang](https://cghezhang.github.io/) and Dr. [Lei Han](https://www.leihan.org/) at [Tencent Robotics X](https://ai.tencent.com/ailab/zh/index).
+Before joining CUHK, I obtained my B.Eng. degree from the School of Information Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/). Currently, I am doing 2023 summer research internship with Dr. [He Zhang](https://cghezhang.github.io/) and Dr. [Lei Han](https://www.leihan.org/) at [Tencent Robotics X](https://ai.tencent.com/ailab/zh/index). I am looking for a Ph.D. position in Fall 2024. 
 
 
 My research aims to build intelligent machines through reinforcement learning (for achieving higher sampler efficiency) and robot learning (for improving long-horizon reasoning ability) from their experiences and offline data in the physical world.
