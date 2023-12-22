@@ -6,6 +6,17 @@
             {%- if entry.teaser -%}
               <img class="preview img-fluid z-depth-1" src="../assets/teaser/{{entry.teaser}}">
             {%- endif -%}
+
+            {% if entry.teaser_video %}
+            <div class="videoplayer">
+                <video autoplay="autoplay" muted loop="loop" playsinline class="preview z-depth-1">
+                    <source src="../assets/teaser/{{entry.teaser_video}}" type="video/mp4"/>
+                </video>
+            </div>
+    
+            <!--    <img src="../assets/teaser/{{entry.teaser_video}}" class="teaser img-fluid z-depth-1">-->
+            {% endif %}
+
             {%- if entry.abbr -%}
               {%- if site.data.venues[entry.abbr] -%}
                 {%- assign venue_style = nil -%}
