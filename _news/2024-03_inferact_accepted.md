@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-12-22
+date: 2024-03-24
 inline: true
 ---
 
-One preprint on reward learning for robotic RL tasks ([Diffusion Reward](https://diffusion-reward.github.io/)) was released.
+One paper on scene/motion generation was conditionally accepted to SIGGRAPH 2024.
