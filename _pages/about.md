@@ -20,4 +20,4 @@ I am a first-year Ph.D. student in Computer Science and Engineering at [Shanghai
 
 I have spent a wonderful time in [Tencent Robotics X](https://ai.tencent.com/ailab/zh/index) and [Shanghai Qi Zhi Institute](https://sqz.ac.cn/). 
 
-My previous research focus on robot learning from demonstrations. My current research focuses on humanoid robot learning. Outside of academics, I am an enthusiast of street photography. 
+My previous research focus on robot learning from demonstrations. My current research focuses on humanoid robot learning. Outside of academics, I am an enthusiast of [human photography](gallery). 
