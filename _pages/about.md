@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 services: true
 ---
-I am a first-year Ph.D. student in Computer Science and Engineering at [Shanghai AI Lab](https://www.shlab.org.cn/) and [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Dahua Lin](https://dahua.site/) and [Jiangmiao Pang](https://oceanpang.github.io/). I obtained my M.Phil. degree at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) and B.Eng. degree at [ShanghaiTech](https://www.shanghaitech.edu.cn/).
+I am a first-year Ph.D. student in Computer Science and Engineering at [Shanghai AI Lab](https://www.shlab.org.cn/) and [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Dahua Lin](https://dahua.site/), [Jingbo Wang](https://wangjingbo1219.github.io/), and [Jiangmiao Pang](https://oceanpang.github.io/). I obtained my M.Phil. degree at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) and B.Eng. degree at [ShanghaiTech](https://www.shanghaitech.edu.cn/).
 
 <!-- I am a first-year Ph.D. student in Computer Science and Engineering. I obtained my M.Phil. degree at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) and B.Eng. degree at [ShanghaiTech](https://www.shanghaitech.edu.cn/). -->
 
