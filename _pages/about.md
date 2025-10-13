@@ -15,11 +15,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 services: true
 ---
-I am a first-year Ph.D. student in Computer Science and Engineering at [Shanghai AI Lab](https://www.shlab.org.cn/) and [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Dahua Lin](https://dahua.site/), [Jingbo Wang](https://wangjingbo1219.github.io/), and [Jiangmiao Pang](https://oceanpang.github.io/). I obtained my M.Phil. degree at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) and B.Eng. degree at [ShanghaiTech](https://www.shanghaitech.edu.cn/).
+I am a second-year Ph.D. student in Computer Science and Engineering at [Shanghai AI Lab](https://www.shlab.org.cn/) and [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Dahua Lin](https://dahua.site/), [Jingbo Wang](https://wangjingbo1219.github.io/), and [Jiangmiao Pang](https://oceanpang.github.io/). I obtained my M.Phil. degree at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) and B.Eng. degree at [ShanghaiTech](https://www.shanghaitech.edu.cn/). I have spent a wonderful time in [Tencent Robotics X](https://ai.tencent.com/ailab/zh/index) and [Shanghai Qi Zhi Institute](https://sqz.ac.cn/). 
 
-<!-- I am a first-year Ph.D. student in Computer Science and Engineering. I obtained my M.Phil. degree at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) and B.Eng. degree at [ShanghaiTech](https://www.shanghaitech.edu.cn/). -->
-
-
-I have spent a wonderful time in [Tencent Robotics X](https://ai.tencent.com/ailab/zh/index) and [Shanghai Qi Zhi Institute](https://sqz.ac.cn/). 
-
-My previous research focus on robot learning from demonstrations. My current research focuses on humanoid robot learning. Outside of academics, I am an enthusiast of [street/human photography](gallery). 
+My current research focuses on humanoid robot control. I am open to any academic discussion or collaborations. Welcome to drop me an e-mail at [taou.cs13@gmail.com](taou.cs13@gmail.com) or my wechat: h756058918.
