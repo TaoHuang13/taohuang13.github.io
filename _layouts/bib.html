@@ -1,7 +1,7 @@
 ---
 ---
 <!-- _layouts/bib.html -->
-      <div class="row">
+      <div class="row{% if entry.highlight %} highlight-paper{% endif %}">
         <div class="col-sm-1 abbr">
             {%- if entry.teaser -%}
               <img class="preview img-fluid z-depth-1" src="../assets/teaser/{{entry.teaser}}">
