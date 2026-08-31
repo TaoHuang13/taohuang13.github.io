@@ -480,8 +480,8 @@ footer.sticky-bottom {
       }
 
       &.active {
-        background-color: rgba(255, 152, 0, 0.2);
-        border-color: rgba(255, 152, 0, 0.7);
+        background-color: var(--global-highlight-bg-color);
+        border-color: var(--global-highlight-border-color);
         color: var(--global-text-color);
         font-weight: 600;
       }
@@ -532,7 +532,7 @@ footer.sticky-bottom {
       }
 
       .row.highlight-paper {
-        background-color: rgba(255, 152, 0, 0.18);
+        background-color: var(--global-highlight-bg-color);
         border-radius: 8px;
         padding: 0.75rem 0.5rem;
         margin-left: -0.5rem;
