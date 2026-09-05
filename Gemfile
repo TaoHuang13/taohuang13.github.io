@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
+gem 'ostruct'
+gem 'faraday-retry'
 group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-archives'
